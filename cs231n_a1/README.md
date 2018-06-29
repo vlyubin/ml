@@ -1,1 +1,2 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
+# CS231n A1
+[CS231n](http://cs231n.github.io/) assignment 1 - SVM, KNN and a simple 2 layer NN.
