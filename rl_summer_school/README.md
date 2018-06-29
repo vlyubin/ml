@@ -8,4 +8,4 @@ Some simple RL algorithms used to solve OpenAI gym problems (and extra excercise
 * Sarsa (frozen lake)
 * Q learning (frozen lake)
 
-![CartPole](https://github.com/vlyubin/ml/rl_summer_school/cartpole.gif "CartPole")
+![CartPole](https://github.com/vlyubin/ml/blob/master/rl_summer_school/cartpole.gif "CartPole")
